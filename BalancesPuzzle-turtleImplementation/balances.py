@@ -1,7 +1,7 @@
 """
 file: balances.py
 language: python3
-author1: Varun Rajiv Mantri
+author: Varun Rajiv Mantri
 
 description: code that determines if the given structure is balanced and also draws the turtle representation of the same
 """
